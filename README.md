@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnzhelaLi
-- 🌱 I’m currently learning MicroServices
+
 - 📫 How to reach me: anzhelali87@gmail.com
 
 <!---
